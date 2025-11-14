@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "network": [
+        "tcp",
+        "udp"
+      ],
+      "outbound": "proxy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "tiktok.com",
+        "tiktokcdn.com",
+        "tiktokv.com",
+        "musical.ly",
+        "github.com",
+        "shopify.com",
+        "tiktoy123.com",
+        "magicalbricks.net",
+        "tiktokglobalshop.com",
+        "kuajingmaihuo.com",
+        "temu.com",
+        "openai.com",
+        "chatgpt.com",
+        "youtube.com",
+        "google.com",
+        "googleapis.com",
+        "ggpht.com",
+        "googlevideo.com",
+        "gstatic.com"
+      ],
+      "outbound": "proxy"
+    }
+  ]
+}
