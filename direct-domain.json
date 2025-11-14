@@ -1,21 +1,17 @@
 {
   "version": 1,
+  "type": "domain",
   "rules": [
-    {
-      "domain": [
-        "geosite:cn",
-        "geosite:private",
-        "alidns.com",
-        "doh.pub",
-        "dot.pub",
-        "360.cn",
-        "onedns.net",
-        "taobao.com",
-        "jd.com",
-        "bilibili.com",
-        "1688.com"
-      ],
-      "outbound": "direct"
-    }
+    "geosite:cn",
+    "geosite:private",
+    "alidns.com",
+    "doh.pub",
+    "dot.pub",
+    "360.cn",
+    "onedns.net",
+    "taobao.com",
+    "jd.com",
+    "bilibili.com",
+    "1688.com"
   ]
 }
